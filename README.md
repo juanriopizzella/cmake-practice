@@ -6,6 +6,9 @@ a solid foundation before using CMake on a larger C++ project.
 Source: https://cmake.org/cmake/help/v3.27/guide/tutorial/index.html
 (CMake 3.27 docs — matches the version installed here: `cmake --version` → 3.27.1)
 
+Editor: VS Code, with commands run manually in its integrated terminal — no
+CMake Tools extension, so nothing is hidden behind IDE integration.
+
 Starter files for each step are pulled from the CMake GitHub mirror, e.g.:
 https://github.com/Kitware/CMake/tree/v3.27.9/Help/guide/tutorial/Step1
 
