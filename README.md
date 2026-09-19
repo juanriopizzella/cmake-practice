@@ -33,6 +33,21 @@ is the point.
 
 #### Exercise 1
 
+##### cmake Command
+
+- Create a path-to-build folder, and change to its directory within the terminal
+- Run `cmake ../Step1`, Step1 being the path-to-source (contains CMakeLists.txt and tutorial.cxx)
+
+Terminal's Output Timeline (reduction)
+1. Before reading CMakeLists.txt
+   - Generator is identified (e.g. Visual Studio 17 2022)
+2. Configuration: CMakeLists.txt
+   - project() → Since you have not specified a language, both C and C++ compilers and their ABI info are identified and tested
+3. Generation based on what was configured
+   - MSBuild solution and project files
+
+##### CMakeLists.txt Commands
+
 `cmake_minimum_required(VERSION 3.1)`
 
 - Installed version < 3.1 → Error
