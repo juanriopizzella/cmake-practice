@@ -66,3 +66,11 @@ Terminal's Output Timeline (reduction)
 `add_executable(Tutorial tutorial.cxx)`
 
 - Based on the source file tutorial.cxx, have Tutorial as the name of the executable being built and also the name CMake will use to target it
+
+##### cmake --build Command
+
+- With no specified configuration, the exe falls in the Debug folder next to its debugging symbols file.
+   - `cmake --build . --config Release` would choose a different configuration, also at build time
+- Compiled file before linking: `.\Tutorial.dir\Debug\tutorial.obj`
+
+See [before_build.txt](notes/Step1/before_build.txt) and compare it to [after_build.txt](notes/Step1/after_build.txt)
