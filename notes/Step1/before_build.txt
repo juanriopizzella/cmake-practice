@@ -1,0 +1,87 @@
+Folder PATH listing for volume Windows
+C:.
+|   ALL_BUILD.vcxproj
+|   ALL_BUILD.vcxproj.filters
+|   CMakeCache.txt
+|   cmake_install.cmake
+|   Tutorial.sln
+|   Tutorial.vcxproj
+|   Tutorial.vcxproj.filters
+|   ZERO_CHECK.vcxproj
+|   ZERO_CHECK.vcxproj.filters
+|   
+\---CMakeFiles
+    |   cmake.check_cache
+    |   CMakeConfigureLog.yaml
+    |   generate.stamp
+    |   generate.stamp.depend
+    |   generate.stamp.list
+    |   TargetDirectories.txt
+    |   
+    +---3.27.1
+    |   |   CMakeCCompiler.cmake
+    |   |   CMakeCXXCompiler.cmake
+    |   |   CMakeDetermineCompilerABI_C.bin
+    |   |   CMakeDetermineCompilerABI_CXX.bin
+    |   |   CMakeRCCompiler.cmake
+    |   |   CMakeSystem.cmake
+    |   |   VCTargetsPath.txt
+    |   |   VCTargetsPath.vcxproj
+    |   |   
+    |   +---CompilerIdC
+    |   |   |   CMakeCCompilerId.c
+    |   |   |   CompilerIdC.exe
+    |   |   |   CompilerIdC.vcxproj
+    |   |   |   
+    |   |   +---Debug
+    |   |   |   |   CMakeCCompilerId.obj
+    |   |   |   |   CompilerIdC.exe.recipe
+    |   |   |   |   
+    |   |   |   \---CompilerIdC.tlog
+    |   |   |           CL.command.1.tlog
+    |   |   |           Cl.items.tlog
+    |   |   |           CL.read.1.tlog
+    |   |   |           CL.write.1.tlog
+    |   |   |           CompilerIdC.lastbuildstate
+    |   |   |           link.command.1.tlog
+    |   |   |           link.read.1.tlog
+    |   |   |           link.secondary.1.tlog
+    |   |   |           link.write.1.tlog
+    |   |   |           
+    |   |   \---tmp
+    |   +---CompilerIdCXX
+    |   |   |   CMakeCXXCompilerId.cpp
+    |   |   |   CompilerIdCXX.exe
+    |   |   |   CompilerIdCXX.vcxproj
+    |   |   |   
+    |   |   +---Debug
+    |   |   |   |   CMakeCXXCompilerId.obj
+    |   |   |   |   CompilerIdCXX.exe.recipe
+    |   |   |   |   
+    |   |   |   \---CompilerIdCXX.tlog
+    |   |   |           CL.command.1.tlog
+    |   |   |           Cl.items.tlog
+    |   |   |           CL.read.1.tlog
+    |   |   |           CL.write.1.tlog
+    |   |   |           CompilerIdCXX.lastbuildstate
+    |   |   |           link.command.1.tlog
+    |   |   |           link.read.1.tlog
+    |   |   |           link.secondary.1.tlog
+    |   |   |           link.write.1.tlog
+    |   |   |           
+    |   |   \---tmp
+    |   +---VCTargetsPath
+    |   |   \---x64
+    |   |       \---Debug
+    |   |           |   VCTargetsPath.recipe
+    |   |           |   
+    |   |           \---VCTargetsPath.tlog
+    |   |                   VCTargetsPath.lastbuildstate
+    |   |                   
+    |   \---x64
+    |       \---Debug
+    +---948ec345644cb358b1b26facee212e0b
+    |       generate.stamp.rule
+    |       
+    +---CMakeScratch
+    \---pkgRedirects
